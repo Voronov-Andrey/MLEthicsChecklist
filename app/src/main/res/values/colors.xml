@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#22577A</color>
+    <color name="primary_dark">#163D5A</color>
+    <color name="accent">#38A3A5</color>
+    <color name="surface">#F7FAFC</color>
+    <color name="text_primary">#1F2933</color>
+</resources>
